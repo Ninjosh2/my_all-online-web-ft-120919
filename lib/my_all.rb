@@ -5,5 +5,4 @@ def my_all?(collection)
     block_return_values << yield(collection[i])
     i = i + 1 
   end
-
 end
